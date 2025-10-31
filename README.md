@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jeetpatel2520@gmail.com**
 
-- Visit My <a href="https://jeetp25.github.io/Portfolio-/"> Portfolio </a>
+- Visit My <a href="https://github.com/Jeetp25/Portfolio-Jeet-Patel"> Portfolio </a>
 
 - 📄 Know about my experiences [file:///Users/jeet/Desktop/Portfolio-Website-Template-main%205/images/Jeet%20patel%20GA%20.pdf](file:///Users/jeet/Desktop/Portfolio-Website-Template-main%205/images/Jeet%20patel%20GA%20.pdf)
 
